@@ -6,7 +6,7 @@
   "textSourceDescription": "Forrás",
   "textSource": "SIPRI",
   "textNoteDescription": "jegyzet",
-  "textNote": "A SIPRI Military Expenditure Database az országok éves katonai kiadásait adja meg 1949 óta, lehetővé téve az országok katonai kiadásainak összehasonlítását helyi pénznemben aktuális árakon; USA-dollárban változatlan áron és árfolyamon; a GDP arányában; fejenként és a kormányzati kiadások arányában. A definíciókkal, forrásokkal és módszerekkel kapcsolatos információkért lásd: https://www.sipri.org/databases/milex/sources-and-methods.",
+  "textNote": "A SIPRI Military Expenditure Database az országok éves katonai kiadásait adja meg 1949 óta, lehetővé téve az országok katonai kiadásainak összehasonlítását helyi pénznemben folyó árakon; USA-dollárban változatlan áron és árfolyamon; a GDP arányában; fejenként és a kormányzati kiadások arányában. A definíciókkal, forrásokkal és módszerekkel kapcsolatos információkért lásd: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://milex.sipri.org/sipri",
   "textCountryClick": "További információért kattintson",
