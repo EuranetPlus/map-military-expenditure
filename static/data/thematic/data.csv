@@ -2,7 +2,7 @@ country,id,value,extraInfo,text_content,link_text,link_url_target,audio_url_1,au
 Albania,AL,null,FALSE,,,,,,,,,
 Austria,AT,3783.87,TRUE,"Share of GDP: 0,77%",,,,,,,,
 Belgium,BE,7045,TRUE,"Share of GDP: 1,18%",,,,,,,,
-Bulgaria,BG,null,TRUE,"Share of GDP: 1,51%",,,,,,,,
+Bulgaria,BG,1336.45,TRUE,"Share of GDP: 1,51%",,,,,,,,
 Bosnia and Herzegovina,BA,null,FALSE,,,,,,,,,
 Switzerland,CH,null,FALSE,,,,,,,,,
 Cyprus,CY,514.59,TRUE,"Share of GDP: 1,81%",,,,,,,,
