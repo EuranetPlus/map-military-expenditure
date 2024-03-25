@@ -1,6 +1,6 @@
 {
-  "heading": "Pārbaudītie aizsardzības budžeti: cik daudz no sava IKP 27 ES valstis tērē saviem militārajiem mērķiem?",
-  "subheading": "Pārskats par IKP militāro izdevumu īpatsvaru Eiropas Savienības valstīs 2022. gadā, kā arī kopējos izdevumus ASV dolāros un procentuālās izmaiņas salīdzinājumā ar 2021. gadu",
+  "heading": "Pārbaudīti aizsardzības budžeti: cik daudz no IKP mēs tērējam bruņotajiem spēkiem?",
+  "subheading": "Militārie izdevumi procentos no IKP ES valstīs 2022. gadā, kopējie izdevumi USD un procentuālās izmaiņas salīdzinājumā ar 2021. gadu.",
   "legend1": "Nav pieejami dati",
   "tooltip1": "no IKP",
   "textSourceDescription": "Avots",
@@ -11,7 +11,7 @@
   "linkDataAccess": "https://milex.sipri.org/sipri",
   "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas",
   "extraInfoText_AT": "Militāro izdevumu palielinājums vai samazinājums 2021. gadā salīdzinājumā ar 2022. gadu: -9,8% Kopējie izdevumi miljonos ASV dolāru: 3783,87",
-  "extraInfoText_BE": "Militāro izdevumu palielinājums vai samazinājums 2021. gadā salīdzinājumā ar 2022. gadu: 12,9% Kopējie izdevumi miljonos ASV dolāru: 7045",
+  "extraInfoText_BE": "Militāro izdevumu palielinājums vai samazinājums 2021. gadā salīdzinājumā ar 2022. gadu: 12,9% Kopējie izdevumi miljonos ASV dolāru: 7045",
   "extraInfoText_BG": "Militāro izdevumu palielinājums vai samazinājums 2021. gadā salīdzinājumā ar 2022. gadu: 4,8% Kopējie izdevumi miljonos ASV dolāru: null",
   "extraInfoText_CY": "Militāro izdevumu palielinājums vai samazinājums 2021. gadā salīdzinājumā ar 2022. gadu: -5,0% Kopējie izdevumi miljonos ASV dolāru: 514,59",
   "extraInfoText_CZ": "Militāro izdevumu palielinājums vai samazinājums 2021. gadā salīdzinājumā ar 2022. gadu: -5,8% Kopējie izdevumi miljonos ASV dolāru: 3707,13",
