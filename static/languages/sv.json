@@ -6,7 +6,7 @@
   "textSourceDescription": "Källa",
   "textSource": "SIPRI",
   "textNoteDescription": "Notera",
-  "textNote": "SIPRI:s militära utgifterdatabas ger länders årliga militära utgifter sedan 1949, vilket gör det möjligt att jämföra länders militära utgifter i lokal valuta till aktuella priser; i amerikanska dollar till fasta priser och växelkurser; som andel av BNP; per capita och som andel av de offentliga utgifterna. För information om definition, källor och metoder, se: https://www.sipri.org/databases/milex/sources-and-methods.",
+  "textNote": "SIPRI:s militära utgifterdatabas ger länders årliga militärutgifter sedan 1949, vilket gör det möjligt att jämföra länders militära utgifter i lokal valuta till aktuella priser; i amerikanska dollar till fasta priser och växelkurser; som andel av BNP; per capita och som andel av de offentliga utgifterna. För information om definition, källor och metoder, se: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textDataAccess": "Få åtkomst till data",
   "linkDataAccess": "https://milex.sipri.org/sipri",
   "textCountryClick": "Klicka för mer info",

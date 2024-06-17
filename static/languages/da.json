@@ -7,7 +7,7 @@
   "textSource": "SIPRI",
   "textNoteDescription": "Bemærk",
   "textNote": "SIPRI Military Expenditure Database giver landes årlige militærudgifter siden 1949, hvilket gør det muligt at sammenligne landes militærudgifter i lokal valuta til aktuelle priser; i amerikanske dollars til faste priser og valutakurser; som andel af BNP; indbygger og som andel af det offentlige forbrug. For information om definition, kilder og metoder, se venligst: https://www.sipri.org/databases/milex/sources-and-methods.",
-  "textDataAccess": "Få adgang til dataene",
+  "textDataAccess": "Få adgang til data",
   "linkDataAccess": "https://milex.sipri.org/sipri",
   "textCountryClick": "Klik for mere info",
   "extraInfoText_AT": "Forøgelse eller fald i militærudgifter 2022 vs. 2023: 797,30 Samlede udgifter i millioner US$: 4.410,00",

@@ -10,10 +10,10 @@
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://milex.sipri.org/sipri",
   "textCountryClick": "Napsauta saadaksesi lisätietoja",
-  "extraInfoText_AT": "Sotilasmenojen lisäys tai vähennys 2022 vs. 2023: 797,30 Kokonaismenot miljoonina dollareina: 4 410,00",
+  "extraInfoText_AT": "Sotilasmenojen lisäys tai vähennys 2022 vs. 2023: 797,30 Kokonaismenot miljoonina USD: 4 410,00",
   "extraInfoText_BE": "Sotilasmenojen lisäys tai vähennys 2022 vs. 2023: 739,20 Kokonaiskulut miljoonina dollareina: 7 629,40",
   "extraInfoText_BG": "Sotilasmenojen lisäys tai vähennys 2022 vs. 2023: 481,50 Kokonaiskulut miljoonina dollareina: 1 918,40",
-  "extraInfoText_CY": "Sotilasmenojen lisäys tai vähennys 2022 vs. 2023: 34,40 Kokonaiskulut miljoonina dollareina: 566,90",
+  "extraInfoText_CY": "Sotilasmenojen lisäys tai vähennys 2022 vs. 2023: 34,40 Kokonaismenot miljoonina USD: 566,90",
   "extraInfoText_CZ": "Sotilasmenojen lisäys tai vähennys 2022 verrattuna vuoteen 2023: 1 050,90 Kokonaiskulut miljoonina dollareina: 5 056,30",
   "extraInfoText_DE": "Sotilasmenojen lisäys tai vähennys 2022 verrattuna vuoteen 2023: 2 669,90 Kokonaiskulut miljoonina dollareina: 8 144,90",
   "extraInfoText_DK": "Sotilasmenojen lisäys tai vähennys 2022 verrattuna vuoteen 2023: 2 669,90 Kokonaiskulut miljoonina dollareina: 8 144,90",
@@ -36,5 +36,5 @@
   "extraInfoText_RO": "Sotilasmenojen lisäys tai vähennys 2022 vs. 2023: 422,70 Kokonaiskulut miljoonina dollareina: 5 610,70",
   "extraInfoText_SE": "Sotilasmenojen lisäys tai vähennys 2022 verrattuna vuoteen 2023: 1 032,40 Kokonaiskulut miljoonina dollareina: 8 754,90",
   "extraInfoText_SI": "Sotilasmenojen lisäys tai vähennys 2022 vs. 2023: 132,30 Kokonaismenot miljoonina USD: 907,50",
-  "extraInfoText_SK": "Sotilasmenojen lisäys tai vähennys 2022 vs. 2023: 577,40 Kokonaiskulut miljoonina dollareina: 2 663,10"
+  "extraInfoText_SK": "Sotilasmenojen lisäys tai vähennys 2022 vs. 2023: 577,40 Kokonaismenot miljoonina dollareina: 2 663,10"
 }

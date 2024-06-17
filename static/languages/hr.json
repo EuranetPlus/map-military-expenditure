@@ -6,7 +6,7 @@
   "textSourceDescription": "Izvor",
   "textSource": "SIPRI",
   "textNoteDescription": "Bilješka",
-  "textNote": "SIPRI baza podataka o vojnim izdacima daje godišnju vojnu potrošnju zemalja od 1949., dopuštajući usporedbu vojne potrošnje zemalja u lokalnoj valuti po trenutnim cijenama; u američkim dolarima po stalnim cijenama i tečajevima; kao udio u BDP-u; po stanovniku i kao udio u državnoj potrošnji. Za informacije o definiciji, izvorima i metodama, molimo pogledajte: https://www.sipri.org/databases/milex/sources-and-methods.",
+  "textNote": "SIPRI baza podataka o vojnim izdacima daje godišnju vojnu potrošnju zemalja od 1949. godine, omogućujući usporedbu vojne potrošnje zemalja u lokalnoj valuti po trenutnim cijenama; u američkim dolarima po stalnim cijenama i tečajevima; kao udio u BDP-u; po stanovniku i kao udio u državnoj potrošnji. Za informacije o definiciji, izvorima i metodama, molimo pogledajte: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textDataAccess": "Pristupite podacima",
   "linkDataAccess": "https://milex.sipri.org/sipri",
   "textCountryClick": "Kliknite za više informacija",
