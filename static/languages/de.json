@@ -6,7 +6,7 @@
   "textSourceDescription": "Quelle",
   "textSource": "SIPRI",
   "textNoteDescription": "Notiz",
-  "textNote": "Die SIPRI-Datenbank zu Militärausgaben gibt die jährlichen Militärausgaben der Länder seit 1949 an und ermöglicht einen Vergleich der Militärausgaben der Länder in lokaler Währung zu aktuellen Preisen, in US-Dollar zu konstanten Preisen und Wechselkursen, als Anteil des BIP, pro Kopf und als Anteil der Staatsausgaben. Informationen zu Definition, Quellen und Methoden finden Sie unter: https://www.sipri.org/databases/milex/sources-and-methods.",
+  "textNote": "Die SIPRI-Datenbank für Militärausgaben gibt die jährlichen Militärausgaben der Länder seit 1949 an und ermöglicht einen Vergleich der Militärausgaben in Landeswährung zu aktuellen Preisen, in US-Dollar zu konstanten Preisen und Wechselkursen, als Anteil am BIP, pro Kopf und als Anteil an den Staatsausgaben. Informationen zu Definition, Quellen und Methoden finden Sie unter: https://www.sipri.org/databases/milex/sources-and-methods.",
   "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://milex.sipri.org/sipri",
   "textCountryClick": "Klicken Sie hier für weitere Informationen",
